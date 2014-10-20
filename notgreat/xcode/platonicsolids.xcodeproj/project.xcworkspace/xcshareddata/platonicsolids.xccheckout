@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AC9FF027-9A72-4E2A-8720-4FCA295ED0A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>platonicsolids</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7A4CB85-516A-4435-93CA-B9A30B320271</key>
+		<string>git://github.com/Hebali/AOGP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>personal_scripts/platonicsolids/xcode/platonicsolids.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7A4CB85-516A-4435-93CA-B9A30B320271</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git://github.com/Hebali/AOGP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7A4CB85-516A-4435-93CA-B9A30B320271</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7A4CB85-516A-4435-93CA-B9A30B320271</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AOGP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
